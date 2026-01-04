@@ -40,7 +40,7 @@
 
 1.  **Service Cloud 프로세스 최적화 (Native Integration)**
     *   비즈니스의 핵심인 '시설물 수리 및 민원 관리'를 위해서는 `Case` 및 `WorkOrder`와의 연동이 필수적.
-    *   `Asset`은 이미 이들과 **Native Relationship**으로 연결되어 있어, 별도의 관계 설정 개발 없이도 수리 이력 추적(History Tracking)이 가능함.
+    *   `Asset`은 이미 이들과 **기본적**으로 연결되어 있어, 별도의 관계 설정 개발 없이도 수리 이력 추적이 가능함.
 
 2.  **계층형 구조(Hierarchy) 기본 지원**
     *   **지점 -> 층 -> 호실**로 이어지는 트리 구조가 필요함.
